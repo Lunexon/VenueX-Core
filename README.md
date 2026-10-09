@@ -60,7 +60,7 @@
 
   ## Download
 
-  Get the latest version on the **[Releases](../../releases/latest)** page.
+  Get the latest version on the **[Releases](../../releases/latest)** page. A running subscription is needed. For more information visit Lunexon.de
   VenueX Core updates itself automatically.
 
   ---
